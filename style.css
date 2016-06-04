@@ -13,9 +13,6 @@ body {
 	background-color: #857E74;
 }
 
-#top {
-	padding-left: 20%;
-}
-#topnav {
-	text-align: right;
+.brand {
+	font-size: 1.1em;
 }
