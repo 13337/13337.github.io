@@ -31,3 +31,14 @@ a:hover {
 	text-align: right;
 	margin-right: 15%;
 }
+
+#about {
+	height: 10em;
+	border: .2em solid white;
+	background-color: #857E74;
+	margin: 0% 5% 5% 5%;
+}
+
+h2 {
+	text-align: center;
+}
