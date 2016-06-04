@@ -7,8 +7,8 @@
 }
 
 body {
-	font-family: Monospace;
-	font-size: 1.1em;
+	font-family: "Lucida console", monospace;
+	font-size: 1em;
 	color: white;
 	background-color: #857E74;
 }
