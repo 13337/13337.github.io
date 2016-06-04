@@ -1,5 +1,5 @@
 .parallax-container {
-    min-height: 25em;
+    min-height: 30em;
     background: transparent;
 }
 .parallax-mirror {
@@ -33,7 +33,7 @@ a:hover {
 }
 
 #about {
-	height: 15em;
+	height: 25em;
 	border: .2em solid white;
 	background-color: #857E74;
 	margin: 0% 10% 5% 10%;
