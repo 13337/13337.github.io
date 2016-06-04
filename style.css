@@ -1,0 +1,20 @@
+.parallax-container {
+    min-height: 400px;
+    background: transparent;
+}
+.parallax-mirror {
+    z-index:1
+}
+
+body {
+	font-family: Monospace;
+	color: white;
+	background-color: #857E74;
+}
+
+#top {
+	padding-left: 20%;
+}
+#topnav {
+	text-align: right;
+}
