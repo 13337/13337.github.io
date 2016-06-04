@@ -13,7 +13,21 @@ body {
 	background-color: #857E74;
 }
 
-#nav {
+.nav {
 	font-size: 2em;
 	padding-left: 15%;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.navbar-right {
+	text-align: right;
+	margin-right: 15%;
 }
