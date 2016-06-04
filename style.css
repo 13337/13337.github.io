@@ -8,16 +8,12 @@
 
 body {
 	font-family: "Lucida console", monospace;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: white;
 	background-color: #857E74;
 }
 
 #nav {
-	font-size: 1.5em;
+	font-size: 2em;
 	padding-left: 15%;
-}
-
-a:link {
-	color:white;
 }
