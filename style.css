@@ -47,3 +47,19 @@ h2 {
 #words {
 	text-align: center;
 }
+
+ul {
+	list-style: none;
+}
+
+li {
+	font-size: .5em;
+}
+
+#contact-form {
+	padding: 0 0 5% 5%;
+}
+
+.navbar {
+	text-align: center;
+}
