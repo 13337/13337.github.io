@@ -14,7 +14,7 @@ body {
 }
 
 .nav {
-	font-size: 1.7em;
+	font-size: 1.5em;
 	padding-left: 15%;
 }
 
@@ -57,19 +57,14 @@ h2 {
 	padding: 0% 3% 3% 3%;
 }
 
-#contact {
-	padding-top: 3%;
+.contact {
 	font-size: 1em;
 }
 
 #contact-form {
-	padding: 0 0 5% 5%;
+	padding: 3% 0 0 5%;
 }
 
-.navbar-bottom {
-	text-align: center;
-	margin: 0 auto;
-}
 
 .ss {
 	border: .1em solid white;
