@@ -1,9 +1,9 @@
 .parallax-container {
-    min-height: 30em;
+    min-height: 25em;
     background: transparent;
 }
 .parallax-mirror {
-    z-index:1
+    z-index: 1;
 }
 
 body {
@@ -40,10 +40,10 @@ a:hover {
 }
 
 #portfolio {
-	height: 35em;
+	height: 25em;
 	border: .2em solid white;
 	background-color: #857E74;
-	margin: 0% 15% 5% 15%;
+	margin: 0% 5% 5% 5%;
 }
 
 h2 {
@@ -53,6 +53,8 @@ h2 {
 
 #words {
 	text-align: center;
+	font-size: 1em;
+	padding: 0% 3% 3% 3%;
 }
 
 #contact {
@@ -69,7 +71,10 @@ h2 {
 	margin: 0 auto;
 }
 
-.screenshot {
+.ss {
 	border: .1em solid white;
-	max-height: 15em;
+	max-height: 10em;
+}
+.project {
+	text-align: center;
 }
