@@ -60,10 +60,12 @@ h2 {
 
 .contact {
 	font-size: 1em;
+	padding: 3% 0 0 5%;
+
 }
 
 #contact-form {
-	padding: 3% 0 0 5%;
+	text-align:center;
 }
 
 
