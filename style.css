@@ -48,14 +48,6 @@ h2 {
 	text-align: center;
 }
 
-ul {
-	list-style: none;
-}
-
-li {
-	font-size: .5em;
-	padding-top: 3%;
-}
 
 #contact-form {
 	padding: 0 0 5% 5%;
@@ -63,4 +55,5 @@ li {
 
 .navbar-bottom {
 	text-align: center;
+	margin: 0 auto;
 }
