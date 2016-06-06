@@ -33,10 +33,17 @@ a:hover {
 }
 
 #about {
-	height: 25em;
+	height: 10em;
 	border: .2em solid white;
 	background-color: #857E74;
-	margin: 0% 10% 5% 10%;
+	margin: 0% 20% 5% 20%;
+}
+
+#portfolio {
+	height: 30em;
+	border: .2em solid white;
+	background-color: #857E74;
+	margin: 0% 15% 5% 15%;
 }
 
 h2 {
@@ -60,4 +67,9 @@ h2 {
 .navbar-bottom {
 	text-align: center;
 	margin: 0 auto;
+}
+
+.screenshot {
+	border: .1em solid white;
+	max-height: 15em;
 }
