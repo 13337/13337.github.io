@@ -92,6 +92,7 @@
 		</form>
 	</div>
 	<br/>
+
 	<nav class="nav navbar navbar-bottom">
 		<div class="nav navbar navbar-left"></div>
 				<a class='fa fa-linkedin' href='https://www.linkedin.com/in/drew-hall-52322433' target='_blank'> LinkedIn </a> 
@@ -107,7 +108,11 @@
 
 
 		<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-		
+		<script>
+			$('.form-control').click(function() {
+				this.value = "";
+			});
+		</script>
 		<script src="./js/parallax.min.js"></script>
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
