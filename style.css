@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-	padding-left: 5%;
+	margin-left: 5%;
 
 }
 
@@ -39,7 +39,7 @@ a:hover {
 
 .navbar-right {
 	text-align: right;
-	padding-right: 5%;
+	margin-right: 5%;
 }
 
 
