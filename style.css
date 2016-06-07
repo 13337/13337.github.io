@@ -58,11 +58,12 @@ h2 {
 .contact {
 	font-size: 1em;
 	padding: 3% 0 0 5%;
+	color:black;
+
 
 }
 
 #contact-form {
-	color:black;
 	text-align:center;
 }
 
