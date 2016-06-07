@@ -14,7 +14,7 @@ body {
 }
 
 .nav {
-	font-size: 1.5em;
+	font-size: 2em;
 	margin: 0 auto;
 }
 
@@ -55,7 +55,6 @@ a:hover {
 
 h2 {
 	text-align: center;
-	margin: 1% auto auto auto;
 }
 
 #words {
@@ -70,22 +69,21 @@ h2 {
 	color:black;
 	text-align: center;
 	margin: 0 auto;
-
-
 }
-form {
+
+#contact-form {
 	text-align: center;
 	margin: 0 auto;
+	color: white;
+	padding-bottom: 1%;
 }
+
 input {
 	background-color: white;
-	font-size: 1.5em;
-	text-align: center;
-	margin: 0 auto;
+
 }
 
 .fa {
-	font-size: 1.5em;
 	color: #FAB557;
 
 }
@@ -99,4 +97,6 @@ input {
 
 .form-control {	
 	width: 50%;
+	margin: 0 auto;
+
 }
