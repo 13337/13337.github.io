@@ -63,6 +63,10 @@ h2 {
 
 }
 
+input {
+	background-color: white;
+}
+
 #contact-form {
 	text-align:center;
 }
