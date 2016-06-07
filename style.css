@@ -53,6 +53,7 @@ a:hover {
 	font-size: 1.5em;
 	border: .2em solid white;
 	background-color: #857E74;
+	margin-bottom: 1%;
 }
 
 h2 {
@@ -95,10 +96,15 @@ input {
 }
 .project {
 	text-align: center;
+	padding: 1% 0;
 }
 
 .form-control {	
 	width: 50%;
 	margin: 0 auto;
 
+}
+
+.jumbotron {
+	margin: 0 1%;
 }
