@@ -15,8 +15,12 @@ body {
 
 .nav {
 	font-size: 1.5em;
-	padding-left: 10%;
 	margin: 0 auto;
+}
+
+.navbar-top {
+	padding-left: 10%;
+
 }
 
 a {
