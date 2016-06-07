@@ -15,7 +15,7 @@ body {
 
 .nav {
 	font-size: 1.5em;
-	padding-left: 15%;
+	padding-left: 10%;
 }
 
 a {
@@ -29,22 +29,19 @@ a:hover {
 
 .navbar-right {
 	text-align: right;
-	margin-right: 15%;
+	margin-right: 10%;
 }
 
 
 #about {
-	height: 10em;
 	border: .2em solid white;
 	background-color: #857E74;
 	margin: 0% 20% 5% 20%;
 }
 
 #portfolio {
-	height: 25em;
 	border: .2em solid white;
 	background-color: #857E74;
-	margin: 0% 5% 5% 5%;
 }
 
 h2 {
@@ -54,7 +51,7 @@ h2 {
 
 #words {
 	text-align: center;
-	font-size: 1em;
+	font-size: 1.3em;
 	padding: 0% 3% 3% 3%;
 }
 
@@ -71,7 +68,6 @@ h2 {
 
 .ss {
 	border: .1em solid white;
-	max-height: 10em;
 }
 .project {
 	text-align: center;
