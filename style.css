@@ -41,7 +41,7 @@ a:hover {
 #about {
 	border: .2em solid white;
 	background-color: #857E74;
-	margin: 0% 20% 5% 20%;
+	margin: 2% 15%;
 }
 
 #portfolio {
@@ -63,7 +63,7 @@ h2 {
 
 .contact {
 	font-size: 1.3em;
-	padding: 3% 0 0 5%;
+	padding: 2% 0 0 5%;
 	color:black;
 	text-align: center;
 	margin: 0 auto;
