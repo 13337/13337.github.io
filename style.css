@@ -24,6 +24,9 @@ body {
 	text-align: center;
 	margin: 0 2%;
 }
+.navbar-top {
+	padding-top: 2%;
+}
 
 a {
 	color: #A5F0FC;
