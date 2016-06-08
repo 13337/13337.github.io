@@ -1,6 +1,7 @@
 .parallax-container {
     min-height: 35em;
     background: transparent;
+    width: 100%;
 }
 .parallax-mirror {
     z-index: 1;
