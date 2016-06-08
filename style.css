@@ -15,16 +15,12 @@ body {
 }
 
 .nav {
-	font-size: 2em;
+	font-size: 1.5em;
 	margin: 0 auto;
 }
 
 .navbar {
 	margin-left: 5%;
-
-}
-
-.navbar-bottom {
 	text-align: center;
 	margin: 0 auto;
 }
@@ -36,11 +32,6 @@ a {
 a:hover {
 	text-decoration: none;
 	color: white;
-}
-
-.navbar-right {
-	text-align: right;
-	margin-right: 5%;
 }
 
 
