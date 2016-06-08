@@ -22,7 +22,7 @@ body {
 
 .navbar {
 	text-align: center;
-	margin: 0 2%;
+	padding: 0 2%;
 }
 
 .navbar a:hover {
@@ -30,7 +30,7 @@ body {
 	background-color: #5B5559;
 }
 .navbar-top {
-	padding-top: 1%;
+	margin-top: 1%;
 	background-color: #545653;
 }
 
