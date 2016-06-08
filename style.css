@@ -114,3 +114,7 @@ input {
 	text-align: center;
 	font-size: 1.5em;
 }
+
+#contact a {
+	padding: 1%;
+}
