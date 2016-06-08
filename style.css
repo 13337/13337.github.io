@@ -11,7 +11,7 @@
 body {
 	font-family: "Lucida console", monospace;
 	font-size: 1.3em;
-	color: white;
+	color: #FAB557;
 	background-color: #857E74;
 }
 
@@ -24,19 +24,23 @@ body {
 	text-align: center;
 	margin: 0 2%;
 }
+
+.navbar a:hover {
+	color: white;
+}
 .navbar-top {
 	padding-top: 1%;
 }
 
 a {
-	color: white;
+	color: #FAB557;
+
 }
 
 a:hover {
 	text-decoration: none;
 	color: white;
 }
-
 
 #about {
 	border: .2em solid white;
