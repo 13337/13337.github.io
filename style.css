@@ -27,6 +27,7 @@ body {
 
 .navbar a:hover {
 	color: white;
+	background-color: #5B5559;
 }
 .navbar-top {
 	padding-top: 1%;
@@ -76,7 +77,7 @@ h2 {
 
 #contact-form {
 	text-align: center;
-	color: white;
+	color: #FAB557;
 	padding-bottom: 1%;
 }
 
@@ -118,6 +119,6 @@ input {
 	padding: 2%;
 }
 #message {
-	color: white;
+	color: #FAB557;
 	text-align: left;
 }
