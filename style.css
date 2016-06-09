@@ -123,3 +123,6 @@ input {
 	color: #FAB557;
 	text-align: left;
 }
+.jumbotron {
+	margin: 0;
+}
